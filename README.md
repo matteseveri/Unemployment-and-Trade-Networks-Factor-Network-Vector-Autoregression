@@ -1,4 +1,4 @@
-# Unemployment-and-Trade-Networks-Factor-Network-Vector-Autoregression
+# Unemploymentand Trade Networks: Factor Network Vector Autoregression
 
 Authors: Giacomo Rinaldi · Matteo Severi · Gianluca Antonio Spennacchio
 
